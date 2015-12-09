@@ -1,1 +1,2 @@
-wangxinxin shige da SB
+Git is a distributed version control system.
+Git is free software.
